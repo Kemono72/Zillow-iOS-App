@@ -1,6 +1,8 @@
 # 🏡 Zillow Real Estate Finder – iOS App (Swift + Core Data)
 
-An iOS mobile application that enables users to search real estate listings, view property details and manage favorites using the Zillow API. Developed using UIKit and Core Data for the **MAP523 – iOS App Development** course at Seneca Polytechnic.
+An iOS mobile application that enables users to search real estate listings, view property details and manage favorites using the Zillow API. <br>
+
+Developed using UIKit and Core Data for **MAP523 – iOS App Development** at Seneca Polytechnic.
 
 > 🔐 Features full user authentication, 10+ search filters, API integration and Core Data for persistence.
 
