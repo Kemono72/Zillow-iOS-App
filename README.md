@@ -1,4 +1,4 @@
-# 🏡 Zillow Real Estate Finder – iOS App (Swift + Core Data)
+# 🏡 Zillow Real Estate Finder – iOS App (Swift, Core Data)
 
 An iOS mobile application that enables users to search real estate listings, view property details and manage favorites using the Zillow API. <br>
 
